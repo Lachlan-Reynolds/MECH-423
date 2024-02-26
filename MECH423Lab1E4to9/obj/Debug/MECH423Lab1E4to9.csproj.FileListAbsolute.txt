@@ -1,0 +1,15 @@
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\bin\Debug\MECH423Lab1E4to9.exe.config
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\bin\Debug\MECH423Lab1E4to9.exe
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\bin\Debug\MECH423Lab1E4to9.pdb
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.csproj.AssemblyReference.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Form1.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Properties.Resources.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.csproj.GenerateResource.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.exe
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.pdb
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Form2.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Form3.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Form4.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Form5.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\MECH423Lab1E4to9\obj\Debug\MECH423Lab1E4to9.Form6.resources

@@ -1,0 +1,90 @@
+switch (gestureState)
+                    {
+                        case gestureStateSearch: //look for anomaly in Ax, Ay, Az (case 0
+                            //txtGesture.Text = "0";
+                            AxDataQueue.TryDequeue(out dequeueAx);
+                            AyDataQueue.TryDequeue(out dequeueAy);
+                            AzDataQueue.TryDequeue(out dequeueAz);
+
+                            if(dequeueAx>gestureLimitPlusAx)
+                            {
+                                prevGestureState = gestureStateSearch; //prev=0
+                                gestureState = gestureStateXpos; //0->1
+                                break;
+                            }
+                            
+                            else if(dequeueAz>gestureLimitPlusAz)
+                            {
+                                prevGestureState = gestureState; //prev=0
+                                gestureState = gestureStateZpos;  //0->2
+                                break;
+                            }
+
+                            break;
+                            
+
+                        case gestureStateXpos:
+                            txtGesture.Text = "Gesture 1: +X";
+                            if (prevGestureState == gestureStateZpos) //2->1
+                            {
+                                prevGestureState = gestureStateXpos;
+                                gestureState = 3;
+                                break;
+                            }
+                            prevGestureState = gestureStateXpos;
+                            gestureState= gestureStateSearch; //1->0
+                            break;
+
+                        case gestureStateZpos:
+                            txtGesture.Text = "Gesture 2: +Z";
+                            prevGestureState = gestureStateZpos;
+                            gestureState = gestureStateSearch;
+                            break;
+
+                        case 3:
+                            txtGesture.Text = "Gesture 3: +Z";
+                            Thread.Sleep(10);
+                            break;
+                        
+                    }
+
+
+if (gestureState == gestureStateSearch)
+                    {
+                        txtGesture.Text = "A";
+                        if (dequeueAx > gestureLimitPlusAx)
+                        {
+                            prevGestureState = gestureStateSearch; //prev=0
+                            gestureState = gestureStateXpos; //0 ->(transition)->1
+                        }
+                        if (dequeueAz > gestureLimitPlusAz)
+                        {
+                            prevGestureState = gestureStateSearch; //prev=0
+                            gestureState = gestureStateZpos; //0-> (transition)->2
+                        }
+                    }
+                    
+                    
+                    else if(gestureState==gestureStateXpos)      //case 1
+                    {
+                        if (prevGestureState == gestureStateZpos)   //prev is 2
+                        {
+                            gestureState = gestureStateXpos;
+                            gestureState = 3;
+                            return;
+                        }
+                        txtGesture.Text = "Gesture 1";
+                    }
+
+                    else if (gestureState == gestureStateZpos) //case 2;
+                    {
+                        txtGesture.Text = "Gesture 2";
+                        prevGestureState= gestureStateZpos;
+                        gestureState = gestureStateSearch;
+                    }
+
+                    else if (gestureState==3)
+                    {
+                        txtGesture.Text = "Gesture 3";
+                        prevGestureState= gestureStateSearch;
+                    }
