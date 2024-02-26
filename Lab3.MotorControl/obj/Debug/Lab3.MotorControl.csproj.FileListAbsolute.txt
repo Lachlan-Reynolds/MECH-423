@@ -1,0 +1,10 @@
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\bin\Debug\Lab3.MotorControl.exe.config
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\bin\Debug\Lab3.MotorControl.exe
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\bin\Debug\Lab3.MotorControl.pdb
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.csproj.AssemblyReference.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.Form1.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.Properties.Resources.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.csproj.GenerateResource.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.exe
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.MotorControl\obj\Debug\Lab3.MotorControl.pdb
