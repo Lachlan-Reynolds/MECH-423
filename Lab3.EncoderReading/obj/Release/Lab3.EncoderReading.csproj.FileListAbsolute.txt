@@ -1,0 +1,10 @@
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\bin\Release\Lab3.EncoderReading.exe.config
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\bin\Release\Lab3.EncoderReading.exe
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\bin\Release\Lab3.EncoderReading.pdb
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.csproj.AssemblyReference.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.Form1.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.Properties.Resources.resources
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.csproj.GenerateResource.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.exe
+C:\Users\Lachlan Reynolds\Desktop\MECH 423\Labs\Lab3.EncoderReading\obj\Release\Lab3.EncoderReading.pdb
